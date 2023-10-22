@@ -5,8 +5,8 @@
     margin-right: 15%;
     padding-top: 25px;
     padding-bottom: 50px;
-    padding-left: 2%;
-    padding-right: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
     min-height: 600px;
 }
 .white{
@@ -31,4 +31,7 @@ h1,h2,h3,h4,h5,h6{
 }
 .headimg{
     border-radius:100%;
+}
+.progress{
+    border: 1px solid black;
 }
