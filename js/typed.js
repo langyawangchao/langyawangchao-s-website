@@ -1,4 +1,4 @@
-var typed = new Typed(".box", {
+var typed = new Typed(".autoinputhome", {
     strings: [
               "非我族类，其心必异",
               "犯我中华者，虽远必诛",
